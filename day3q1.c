@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> //Program to convert celcius to fahrenhiet
 
 int main() {
     float celsius, fahrenheit;
