@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h> //Program for area and perimetre of rectangle by taking input from user
 
 int main () {
 
