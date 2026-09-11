@@ -1,4 +1,4 @@
-#include<stdio.h> //Program for calculating sum, difference, product, quotient of two numbers given by user
+#include<stdio.h>
 
 int main () {
 

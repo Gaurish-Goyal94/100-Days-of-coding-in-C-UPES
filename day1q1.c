@@ -1,4 +1,4 @@
-#include<stdio.h> //Write a progeam to take input from user of two numbers and give their sum
+#include<stdio.h>
 
 int main () {
 
